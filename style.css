@@ -23,6 +23,11 @@ h{
     font-weight: bold;
 }
 
+#pic{
+    max-width: 40%;
+    height: auto;
+}
+
 p{ /*css for the output*/
 	font-weight:bold; /*makes the font bold*/
 	color:white; /*makes the font color white*/
