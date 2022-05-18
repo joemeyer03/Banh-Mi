@@ -1,0 +1,39 @@
+body { /*css for the body*/
+	font-family: 'Lato', sans-serif; /*changes the font*/
+	background-image: linear-gradient(to right, #7fe1ff, #49dacd); /*makes the gradient*/
+}
+
+h1{ /*css for the header*/
+	color:white; /*setting color to white*/
+	text-shadow: 1px 1px #ff887f; /*adding drop shadow*/
+}
+
+#head {
+    font-size: medium;
+    color:white;
+    text-shadow: 0.5px 0.5px #ff887f;
+}
+
+h{
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p{ /*css for the output*/
+	font-weight:bold; /*makes the font bold*/
+	color:white; /*makes the font color white*/
+	font-size:20px; /*makes the font size 20*/
+}
+
+#par{
+    color:white;
+    text-shadow: 0.5px 0.5px #ff887f;
+}
+
+#textbox {
+    min-width:10.5%;
+}
